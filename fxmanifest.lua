@@ -1,4 +1,13 @@
 fx_version 'cerulean'
-games {'gta5'}
+game 'gta5'
 
-client_script 'client.lua'
+author '0pax'
+description 'Steal Stop Signs'
+version '1.0.1'
+
+client_script 'client/main.lua'
+
+dependencies {
+  'qtarget',
+  'mythic_notify'
+}

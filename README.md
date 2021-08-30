@@ -3,5 +3,6 @@
 Simple resource that allows players to steal stop signs from the street.
 
 # Dependencies
-qTarget
-mythic_notiy
+
+- [qtarget](https://github.com/QuantusRP/qtarget)
+- [mythic_notify](https://github.com/JayMontana36/mythic_notify)
